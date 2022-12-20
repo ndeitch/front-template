@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ndeitch/front-template/compare/v1.1.0...v1.2.0) (2022-12-20)
+
+
+### Features
+
+* auto merge renovate prs ([70f9cf0](https://github.com/ndeitch/front-template/commit/70f9cf0894b44333d0940c4a2fd4c8423a3187f2))
+
 # [1.1.0](https://github.com/ndeitch/front-template/compare/v1.0.0...v1.1.0) (2022-12-20)
 
 
